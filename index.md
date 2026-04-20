@@ -22,12 +22,13 @@ Last Updated: April 17, 2026</p>
                     <p>This information is collected only during sign‑up for account identification and communication purposes.</p>
             </li>
             <li>
-                <p>Authentication & Account Information<br>
-                We use Firebase Authentication for user sign‑up and login.<br>
-                Email verification is required to activate accounts.<br>
-                We do not have access to your password.<br>
-                Passwords are securely managed by Firebase using industry‑standard encryption.
-                </p>
+                <p>Authentication & Account Information</p>
+                <ul>
+                    <li>We use Firebase Authentication for user sign‑up and login.</li>
+                    <li>Email verification is required to activate accounts.</li>
+                    <li>We do not have access to your password.</li>
+                    <li>Passwords are securely managed by Firebase using industry‑standard encryption.</li>
+                </ul>
             </li>
             <li>
                 <p>Usage Information<br>
