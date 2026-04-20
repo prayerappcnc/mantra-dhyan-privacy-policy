@@ -62,11 +62,13 @@ Last Updated: April 17, 2026</p>
             </li>
             <li>
                 <p>Children's Privacy<br>
-                    Our app is:<br>
-                    Safe for children<br>
-                    Does not knowingly collect personal data from children under 13<br>
-                    Designed for religious and devotional purposes<br>
-                    If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.
+                    Our app is:</p>
+                    <ul>
+                        <li>Safe for children</li>
+                        <li>Does not knowingly collect personal data from children under 13</li>
+                        <li>Designed for religious and devotional purposes</li>
+                    </ul>
+                    <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.
                 </p>
             </li>
             <li>
