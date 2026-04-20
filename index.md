@@ -19,7 +19,7 @@ Last Updated: April 17, 2026</p>
                     <li>Email Address</li>
                     <li>Phone Number</li>
                 </ul>
-                    <p>This information is collected only during sign‑up for account identification and communication purposes.</p>
+                <p>This information is collected only during sign‑up for account identification and communication purposes.</p>
             </li>
             <li>
                 <p>Authentication & Account Information</p>
@@ -33,33 +33,34 @@ Last Updated: April 17, 2026</p>
             <li>
                 <p>Usage Information<br>
                 We may collect non‑personal information such as:</p>
-                <ul>
-                    <li>App interaction data</li>
-                    <li>Feature usage statistics</li>
-                    <li>App performance and crash data</li>
-                </ul>
-                <p>This data helps us improve app stability, content delivery, and user experience.
-                </p>
-            </li>
-            <li>
-                <p>Audio Content & Usage</p>
-                <ul>
-                    <li>All content is currently streamed online only</li>
-                    <li>We plan to enable offline access in future updates</li>
-                    <li>We also plan to incorporate AI chat features in future.</li>
-                    <li>We do not record or store personal listening behavior beyond anonymous analytics</li>
-                </ul>
-            </li>
-            <li>
-                <p>Advertisements (AdMob)<br>
-                    We use Google AdMob to show advertisements in the app.</p>
                     <ul>
-                        <li>Ads are filtered to remove irrelevant or inappropriate content</li>
-                        <li>We aim to show family‑friendly advertisements</li>
-                        <li>AdMob may collect device identifiers and anonymous data to serve ads</li>
+                        <li>App interaction data</li>
+                        <li>Feature usage statistics</li>
+                        <li>App performance and crash data</li>
                     </ul>
-                     <p>⚠️ While we take steps to ensure ad relevance and safety, we are not responsible for ad content provided by third‑party networks. However, we welcome user feedback and will take prompt action if inappropriate ads are reported.</p>
+                <p>This data helps us improve app stability, content delivery, and user experience.</p>
             </li>
+        </ul>
+    </li>
+    <li>
+        <p>Audio Content & Usage</p>
+            <ul>
+                <li>All content is currently streamed online only</li>
+                <li>We plan to enable offline access in future updates</li>
+                <li>We also plan to incorporate AI chat features in future.</li>
+                <li>We do not record or store personal listening behavior beyond anonymous analytics</li>
+            </ul>
+    </li>
+    <li>
+            <p>Advertisements (AdMob)<br>
+            We use Google AdMob to show advertisements in the app.</p>
+        <ul>
+            <li>Ads are filtered to remove irrelevant or inappropriate content</li>
+            <li>We aim to show family‑friendly advertisements</li>
+            <li>AdMob may collect device identifiers and anonymous data to serve ads</li>
+        </ul>
+    <p>⚠️ While we take steps to ensure ad relevance and safety, we are not responsible for ad content provided by third‑party networks. However, we welcome user feedback and will take prompt action if inappropriate ads are reported.</p>
+    </li>
             <li>
                 <p>Children's Privacy<br>
                     Our app is:</p>
@@ -68,50 +69,56 @@ Last Updated: April 17, 2026</p>
                         <li>Does not knowingly collect personal data from children under 13</li>
                         <li>Designed for religious and devotional purposes</li>
                     </ul>
-                    <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.
-                </p>
+                    <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.</p>
+                    </ul>
             </li>
-            <li>
-                <p>Third‑Party Services Used<br>
-                    The app uses trusted third‑party services which may collect information to function properly:<br>
-                    Firebase Authentication<br>
-                    Firebase Analytics<br>
-                    Firebase Crash Reporting<br>
-                    Google AdMob<br>
-                    Each service operates under its own privacy policies.<br>
-                </p>
-            </li>
-            <li>
-                <p>Data Storage & Security<br>
-                    User data is securely stored using Firebase infrastructure<br>
-                    We follow reasonable administrative and technical safeguards<br>
-                    No system is completely secure, but we actively work to protect your data
-                </p>
-            </li>
-            <li>
-                    <p>User Rights & Control<br>
-                    You have the right to:<br>
-                    Access your personal information<br>
-                    Request correction or deletion of your account<br>
-                    Contact us with privacy‑related concerns<br>
-                    Requests can be sent via email (see Contact section).
-                    </p>
-            </li>
-            <li><p>Religious Sensitivity Disclaimer<br>
-                This application is developed with respect for Hindu religious traditions.<br>
-                However, individual sentiments may vary.<br>
-                If any content is found to be sensitive or objectionable:<br>
-                Users may notify us via email<br>
-                We will review the concern sincerely and take corrective steps when appropriate
-                </p>
-            </li>
+    </li>
+    <li>
+        <p>Third‑Party Services Used<br>
+            The app uses trusted third‑party services which may collect information to function properly:</p>
+            <ul>
+                <li>Firebase Authentication</li>
+                <li>Firebase Analytics</li>
+                <li>Firebase Crash Reporting</li>
+                <li>Google AdMob</li>
+            </ul>
+        <p>Each service operates under its own privacy policies.</p>
+    </li>
+    <li>
+        <p>Data Storage & Security</p>
+        <ul>
+            <li>User data is securely stored using Firebase infrastructure</li>
+            <li>We follow reasonable administrative and technical safeguards</li>
+            <li>No system is completely secure, but we actively work to protect your data</li>
+        </ul>
+    </li>
+    <li>
+            <p>User Rights & Control<br>
+            You have the right to:</p>
+                <ul>
+                    <li>Access your personal information</li>
+                    <li>Request correction or deletion of your account</li>
+                    <li>Contact us with privacy‑related concerns</li>
+                </ul>
+            <p>Requests can be sent via email (see Contact section).</p>
+    </li>
+    <li>
+            <p>Religious Sensitivity Disclaimer<br>
+            This application is developed with respect for Hindu religious traditions.
+            However, individual sentiments may vary.
+            If any content is found to be sensitive or objectionable:</p>
+            <ul>
+                <li>Users may notify us via email</li>
+                <li>We will review the concern sincerely and take corrective steps when appropriate</li>
+            </ul>
+    </li>
     <li><p>Changes to This Privacy Policy<br>
-        We may update this Privacy Policy as features evolve.<br>
-        Any changes will be posted on this page with an updated “Last Updated” date.<br>
-        11. Contact Us<br>
+        We may update this Privacy Policy as features evolve.
+        Any changes will be posted on this page with an updated “Last Updated” date.</p>
+    </li>
+    <li><p>Contact Us<br>
         If you have questions, feedback, or concerns related to privacy, content, or app usage, please contact us at:
         Email: prayerappcnc@gmail.com
         </p>
     </li>
     </ol>
-</p>
