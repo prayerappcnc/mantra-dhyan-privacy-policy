@@ -116,7 +116,7 @@ Last Updated: April 17, 2026</p>
     </li>
     <li><p>Contact Us<br>
         If you have questions, feedback, or concerns related to privacy, content, or app usage, please contact us at:
-        Email: prayerappcnc@gmail.com
+        <a href="mailto:prayerappcnc@gmail.com" target="_blank">prayerappcnc@gmail.com</a>
         </p>
     </li>
     </ol>
