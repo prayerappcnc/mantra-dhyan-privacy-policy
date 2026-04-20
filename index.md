@@ -42,21 +42,23 @@ Last Updated: April 17, 2026</p>
                 </p>
             </li>
             <li>
-                <p>Audio Content & Usage<br>
-                All content is currently streamed online only<br>
-                We plan to enable offline access in future updates<br>
-                We also plan to incorporate AI chat features in future.<br>
-                We do not record or store personal listening behavior beyond anonymous analytics
-                </p>
+                <p>Audio Content & Usage</p>
+                <ul>
+                    <li>All content is currently streamed online only</li>
+                    <li>We plan to enable offline access in future updates</li>
+                    <li>We also plan to incorporate AI chat features in future.</li>
+                    <li>We do not record or store personal listening behavior beyond anonymous analytics</li>
+                </ul>
             </li>
             <li>
                 <p>Advertisements (AdMob)<br>
-                    We use Google AdMob to show advertisements in the app.<br>
-                    Ads are filtered to remove irrelevant or inappropriate content<br>
-                    We aim to show family‑friendly advertisements<br>
-                    AdMob may collect device identifiers and anonymous data to serve ads<br>
-                    ⚠️ While we take steps to ensure ad relevance and safety, we are not responsible for ad content provided by third‑party networks. However, we welcome user feedback and will take prompt action if inappropriate ads are reported.
-                </p>
+                    We use Google AdMob to show advertisements in the app.</p>
+                    <ul>
+                        <li>Ads are filtered to remove irrelevant or inappropriate content</li>
+                        <li>We aim to show family‑friendly advertisements</li>
+                        <li>AdMob may collect device identifiers and anonymous data to serve ads</li>
+                    </ul>
+                     <p>⚠️ While we take steps to ensure ad relevance and safety, we are not responsible for ad content provided by third‑party networks. However, we welcome user feedback and will take prompt action if inappropriate ads are reported.</p>
             </li>
             <li>
                 <p>Children's Privacy<br>
