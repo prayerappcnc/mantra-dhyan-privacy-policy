@@ -32,11 +32,13 @@ Last Updated: April 17, 2026</p>
             </li>
             <li>
                 <p>Usage Information<br>
-                We may collect non‑personal information such as:<br>
-                App interaction data<br>
-                Feature usage statistics<br>
-                App performance and crash data<br>
-                This data helps us improve app stability, content delivery, and user experience.
+                We may collect non‑personal information such as:</p>
+                <ul>
+                    <li>App interaction data</li>
+                    <li>Feature usage statistics</li>
+                    <li>App performance and crash data</li>
+                </ul>
+                <p>This data helps us improve app stability, content delivery, and user experience.
                 </p>
             </li>
             <li>
