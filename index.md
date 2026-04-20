@@ -69,10 +69,8 @@ Last Updated: April 17, 2026</p>
                         <li>Does not knowingly collect personal data from children under 13</li>
                         <li>Designed for religious and devotional purposes</li>
                     </ul>
-                    <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.</p>
-                    </ul>
+                        <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.</p>
             </li>
-    </li>
     <li>
         <p>Third‑Party Services Used<br>
             The app uses trusted third‑party services which may collect information to function properly:</p>
