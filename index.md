@@ -1,9 +1,8 @@
 <div class="privacy_policy">
-    <h1>Mantra Dhyan Rhythms</h1>
+    <h2>Mantra Dhyan Rhythms</h2>
     <p>Effective Date: April 17, 2026<br>
     Last Updated: April 17, 2026</p>
     <p>Mantra Dhyan Rhythms (“we”, “our”, “us”) values your trust. This Privacy Policy explains how we collect, use, store, and protect information when you use our mobile application available on Android and iOS platforms.</p>
-    <p>
     <ol>
         <li><h3>About the Application</h3>
             <p>Mantra Dhyan Rhythms is an application meant to promote and educate its users on traditional Hindu remedies, spiritual mantras, and mythological devotional lessons and stories. This app is developed and managed by Check N Click Learning and Technologies Pvt. Ltd. All audio, text, and related content available in the app is original content created by our team and is not copied from any external sources.</p>
@@ -130,7 +129,7 @@
         width:100%;
         display:block;position:relative;
     }
-    .privacy_policy h1{
+    .privacy_policy h2{
         font-size:25px;font-weight: 600;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
     }
     .privacy_policy h3{
@@ -144,5 +143,8 @@
     }
     .privacy_policy li{
         font-size:15px;font-weight: 400;line-height:20px;padding:0px 0px 0px 0px;margin:10px 0px;
+    }
+    .markdown-body>*:first-child{
+        display:none;
     }
 </style>
