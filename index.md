@@ -137,7 +137,7 @@
         font-size:22px;font-weight: 500;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
     }
     .privacy_policy h4{
-        font-size:20px;font-weight: 400;line-height:25px;padding:0px 0px 0px 0px;margin:10px 0px;
+        font-size:18px;font-weight: 400;line-height:22px;padding:0px 0px 0px 0px;margin:0px 0px 0px 10px;
     }
     .privacy_policy p{
         font-size:15px;font-weight: 400;line-height:25px;padding:0px 0px 0px 0px;margin:0px 0px 10px 0px;
