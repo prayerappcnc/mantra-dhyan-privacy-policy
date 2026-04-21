@@ -5,15 +5,15 @@
     <p>Mantra Dhyan Rhythms (“we”, “our”, “us”) values your trust. This Privacy Policy explains how we collect, use, store, and protect information when you use our mobile application available on Android and iOS platforms.</p>
     <p>
     <ol>
-        <li>About the Application
+        <li><h3>About the Application</h3>
             <p>Mantra Dhyan Rhythms is an application meant to promote and educate its users on traditional Hindu remedies, spiritual mantras, and mythological devotional lessons and stories. This app is developed and managed by Check N Click Learning and Technologies Pvt. Ltd. All audio, text, and related content available in the app is original content created by our team and is not copied from any external sources.</p>
             <p>The app is intended for educational, spiritual, devotional, and religious purposes and is designed to be safe for users of all age groups, including children.</p>
         </li>
-        <li>Information We Collect
+        <li><h3>Information We Collect</h3>
             <p>During account registration and usage, we may collect the following information:</p>
             <ul>
                 <li>
-                    <p>Personal Information </p>
+                    <h4>Personal Information </h4>
                     <ul>
                         <li>First Name</li>
                         <li>Last Name (Surname)</li>
@@ -23,7 +23,7 @@
                     <p>This information is collected only during sign‑up for account identification and communication purposes.</p>
                 </li>
                 <li>
-                    <p>Authentication & Account Information</p>
+                    <h4>Authentication & Account Information</h4>
                     <ul>
                         <li>We use Secure Authentication for user sign‑up and login.</li>
                         <li>Email verification is required to activate accounts.</li>
@@ -32,8 +32,8 @@
                     </ul>
                 </li>
                 <li>
-                    <p>Usage Information<br>
-                    We may collect non‑personal information such as:</p>
+                    <h4>Usage Information<h4>
+                    <p>We may collect non‑personal information such as:</p>
                         <ul>
                             <li>App interaction data</li>
                             <li>Feature usage statistics</li>
@@ -44,15 +44,15 @@
             </ul>
         </li>
         <li>
-            <p>Audio Content & Usage</p>
+            <h3>Audio Content & Usage</h3>
                 <ul>
                     <li>All content is currently streamed online only</li>
                     <li>We do not record or store personal listening behavior beyond anonymous analytics</li>
                 </ul>
         </li>
         <li>
-                <p>Advertisements (AdMob)<br>
-                We use Google AdMob to show advertisements in the app.</p>
+                <h3>Advertisements (AdMob)</h3>
+                <p>We use Google AdMob to show advertisements in the app.</p>
             <ul>
                 <li>Ads are filtered to remove irrelevant or inappropriate content</li>
                 <li>We aim to show family‑friendly advertisements</li>
@@ -61,8 +61,8 @@
         <p>⚠️ While we take steps to ensure ad relevance and safety, we are not responsible for ad content provided by third‑party networks. However, we welcome user feedback and will take prompt action if inappropriate ads are reported.</p>
         </li>
                 <li>
-                    <p>Children's Privacy<br>
-                        Our app</p>
+                    <h3>Children's Privacy</h3>
+                        <p>Our app</p>
                         <ul>
                             <li>Is safe for children</li>
                             <li>Does not knowingly collect personal data from children under 13</li>
@@ -72,8 +72,8 @@
                             <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.</p>
                 </li>
         <li>
-            <p>Third‑Party Services Used<br>
-                The app uses trusted third‑party services which may collect information to function properly:</p>
+            <h3>Third‑Party Services Used</h3>
+                <p>The app uses trusted third‑party services which may collect information to function properly:</p>
                 <ul>
                     <li>Firebase Authentication</li>
                     <li>Firebase Analytics</li>
@@ -83,7 +83,7 @@
             <p>Each service operates under its own privacy policies.</p>
         </li>
         <li>
-            <p>Data Storage & Security</p>
+            <h3>Data Storage & Security</h3>
             <ul>
                 <li>User data is securely stored using Secure infrastructure</li>
                 <li>We follow reasonable administrative and technical safeguards</li>
@@ -91,8 +91,8 @@
             </ul>
         </li>
         <li>
-                <p>User Rights & Control<br>
-                You have the right to:</p>
+                <h3>User Rights & Control</h3>
+                <p>You have the right to:</p>
                     <ul>
                         <li>Access your personal information</li>
                         <li>Request correction or deletion of your account</li>
@@ -101,8 +101,8 @@
                 <p>Requests can be sent via email (see Contact section).</p>
         </li>
         <li>
-                <p>Religious Sensitivity Disclaimer<br>
-                This application is developed with respect for Hindu religious traditions.
+                <h3>Religious Sensitivity Disclaimer</h3>
+                <p>This application is developed with respect for Hindu religious traditions.
                 However, individual sentiments may vary.
                 If any content is found to be sensitive or objectionable:</p>
                 <ul>
@@ -110,12 +110,12 @@
                     <li>We will review the concern sincerely and take corrective steps when appropriate</li>
                 </ul>
         </li>
-        <li><p>Changes to This Privacy Policy<br>
-            We may update this Privacy Policy as features evolve.
+        <li><h3>Changes to This Privacy Policy</h3>
+            <p>We may update this Privacy Policy as features evolve.
             Any changes will be posted on this page with an updated “Last Updated” date.</p>
         </li>
-        <li><p>Contact Us<br>
-            If you have questions, feedback, or concerns related to privacy, content, or app usage, please contact us at:
+        <li><h3>Contact Us</h3>
+            <p>If you have questions, feedback, or concerns related to privacy, content, or app usage, please contact us at:
             <a href="mailto:prayerappcnc@gmail.com" target="_blank">prayerappcnc@gmail.com</a>
             </p>
         </li>
@@ -131,12 +131,18 @@
         display:block;position:relative;
     }
     .privacy_policy h1{
-        font-size:20px;font-weight: 600;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
+        font-size:25px;font-weight: 600;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
+    }
+    .privacy_policy h3{
+        font-size:22px;font-weight: 500;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
+    }
+    .privacy_policy h4{
+        font-size:20px;font-weight: 400;line-height:25px;padding:0px 0px 0px 0px;margin:10px 0px;
     }
     .privacy_policy p{
-        font-size:15px;font-weight: 500;line-height:30px;padding:0px 0px 0px 0px;margin:0px 0px 10px 0px;
+        font-size:15px;font-weight: 400;line-height:25px;padding:0px 0px 0px 0px;margin:0px 0px 10px 0px;
     }
     .privacy_policy li{
-        font-size:15px;font-weight: 400;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
+        font-size:15px;font-weight: 400;line-height:20px;padding:0px 0px 0px 0px;margin:10px 0px;
     }
 </style>
