@@ -32,7 +32,7 @@
                     </ul>
                 </li>
                 <li>
-                    <h4>Usage Information<h4>
+                    <h4>Usage Information</h4>
                     <p>We may collect non‑personal information such as:</p>
                         <ul>
                             <li>App interaction data</li>
