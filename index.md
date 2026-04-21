@@ -29,6 +29,7 @@
                         <li>We do not have access to your password.</li>
                         <li>Passwords are securely managed by our authentication tools using industry‑standard encryption.</li>
                     </ul>
+                    <div class="spacer10"></div>
                 </li>
                 <li>
                     <h4>Usage Information</h4>
