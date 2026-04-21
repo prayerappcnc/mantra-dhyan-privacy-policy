@@ -19,7 +19,7 @@
                         <li>Email Address</li>
                         <li>Phone Number</li>
                     </ul>
-                    <p>This information is collected only during sign‑up for account identification and communication purposes.</p><div class="spacer20"></div>
+                    <p>This information is collected only during sign‑up for account identification and communication purposes.</p><div class="spacer10"></div>
                 </li>
                 <li>
                     <h4>Authentication & Account Information</h4>
@@ -151,5 +151,5 @@
     .markdown-body>*:first-child{
         display:none;
     }
-    .spacer20{height:20px;display:block;}
+    .spacer10{height:10px;display:block;}
 </style>
