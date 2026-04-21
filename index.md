@@ -141,6 +141,9 @@
     .privacy_policy p{
         font-size:15px;font-weight: 400;line-height:25px;padding:0px 0px 0px 0px;margin:0px 0px 10px 0px!important;
     }
+    .privacy_policy li > p{
+            padding:10px 0px 0px 0px;
+        }
     .privacy_policy li{
         font-size:15px;font-weight: 400;line-height:20px;padding:0px 0px 0px 0px;margin:10px 0px;
     }
