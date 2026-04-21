@@ -122,17 +122,21 @@
         </ol>
 </div>
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Tiro+Devanagari+Sanskrit:ital@0;1&display=swap');
+    h1,h2,h3,h4,h5,h6,li,a,body{
+        font-family: "Poppins", sans-serif;
+    }
     .privacy_policy{
         width:100%;
         display:block;position:relative;
     }
     .privacy_policy h1{
-        font-size:20px;font-weight: 500;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
+        font-size:20px;font-weight: 600;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
     }
     .privacy_policy p{
-        font-size:15px;font-weight: 400;line-height:30px;padding:0px 0px 0px 0px;margin:0px 0px 10px 0px;
+        font-size:15px;font-weight: 500;line-height:30px;padding:0px 0px 0px 0px;margin:0px 0px 10px 0px;
     }
     .privacy_policy li{
-        font-size:20px;font-weight: 500;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
+        font-size:15px;font-weight: 400;line-height:30px;padding:0px 0px 0px 0px;margin:10px 0px;
     }
 </style>
