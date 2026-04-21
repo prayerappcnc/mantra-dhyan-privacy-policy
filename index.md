@@ -5,14 +5,14 @@ Last Updated: April 17, 2026</p>
 <p>
 <ol>
     <li>About the Application
-        <p>Mantra Dhyan Rhythms is a Hindu religious audio application developed and managed by Check-n-Click. All audio, text, and related content available in the app is original content created by our team and is not copied from any external sources.</p>
-        <p>The app is intended for spiritual, devotional, and religious purposes and is designed to be safe for users of all age groups, including children.</p>
+        <p>Mantra Dhyan Rhythms is an application meant to promote and educate its users on traditional Hindu remedies, spiritual mantras, and mythological devotional lessons and stories. This app is developed and managed by Check N Click Learning and Technologies Pvt. Ltd. All audio, text, and related content available in the app is original content created by our team and is not copied from any external sources.</p>
+        <p>The app is intended for educational, spiritual, devotional, and religious purposes and is designed to be safe for users of all age groups, including children.</p>
     </li>
     <li>Information We Collect
         <p>During account registration and usage, we may collect the following information:</p>
         <ul>
             <li>
-                <p>Personal Information  </p>
+                <p>Personal Information </p>
                 <ul>
                     <li>First Name</li>
                     <li>Last Name (Surname)</li>
@@ -24,10 +24,10 @@ Last Updated: April 17, 2026</p>
             <li>
                 <p>Authentication & Account Information</p>
                 <ul>
-                    <li>We use Firebase Authentication for user sign‑up and login.</li>
+                    <li>We use Secure Authentication for user sign‑up and login.</li>
                     <li>Email verification is required to activate accounts.</li>
                     <li>We do not have access to your password.</li>
-                    <li>Passwords are securely managed by Firebase using industry‑standard encryption.</li>
+                    <li>Passwords are securely managed by our authentication tools using industry‑standard encryption.</li>
                 </ul>
             </li>
             <li>
@@ -46,8 +46,6 @@ Last Updated: April 17, 2026</p>
         <p>Audio Content & Usage</p>
             <ul>
                 <li>All content is currently streamed online only</li>
-                <li>We plan to enable offline access in future updates</li>
-                <li>We also plan to incorporate AI chat features in future.</li>
                 <li>We do not record or store personal listening behavior beyond anonymous analytics</li>
             </ul>
     </li>
@@ -63,11 +61,12 @@ Last Updated: April 17, 2026</p>
     </li>
             <li>
                 <p>Children's Privacy<br>
-                    Our app is:</p>
+                    Our app</p>
                     <ul>
-                        <li>Safe for children</li>
+                        <li>Is safe for children</li>
                         <li>Does not knowingly collect personal data from children under 13</li>
-                        <li>Designed for religious and devotional purposes</li>
+                        <li>Is designed for religious and devotional purposes</li>
+                        <li>Recommends adult supervision for powerful and extremely energetic mantras</li>
                     </ul>
                         <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.</p>
             </li>
@@ -85,7 +84,7 @@ Last Updated: April 17, 2026</p>
     <li>
         <p>Data Storage & Security</p>
         <ul>
-            <li>User data is securely stored using Firebase infrastructure</li>
+            <li>User data is securely stored using Secure infrastructure</li>
             <li>We follow reasonable administrative and technical safeguards</li>
             <li>No system is completely secure, but we actively work to protect your data</li>
         </ul>
