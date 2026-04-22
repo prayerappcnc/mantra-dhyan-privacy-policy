@@ -39,9 +39,9 @@
                     <h4>Usage Information</h4>
                     <p>We may collect non‑personal information such as:</p>
                         <ul>
-                            <li>App interaction data</li>
-                            <li>Feature usage statistics</li>
-                            <li>App performance and crash data</li>
+                            <li>App interaction data.</li>
+                            <li>Feature usage statistics.</li>
+                            <li>App performance and crash data.</li>
                         </ul>
                     <p>This data helps us improve app stability, content delivery, and user experience.</p>
                 </li>
@@ -50,17 +50,17 @@
         <li>
             <h3>Audio Content & Usage</h3>
                 <ul>
-                    <li>All content is currently streamed online only</li>
-                    <li>We do not record or store personal listening behavior beyond anonymous analytics</li>
+                    <li>All content is currently streamed online only.</li>
+                    <li>We do not record or store personal listening behavior beyond anonymous analytics.</li>
                 </ul>
         </li>
         <li>
                 <h3>Advertisements (AdMob)</h3>
                 <p>We use Google AdMob to show advertisements in the app.</p>
             <ul>
-                <li>Ads are filtered to remove irrelevant or inappropriate content</li>
-                <li>We aim to show family‑friendly advertisements</li>
-                <li>AdMob may collect device identifiers and anonymous data to serve ads</li>
+                <li>Ads are filtered to remove irrelevant or inappropriate content.</li>
+                <li>We aim to show family‑friendly advertisements.</li>
+                <li>AdMob may collect device identifiers and anonymous data to serve ads.</li>
                 <li>Google AdMob may collect the Advertising ID (AAID/IDFA) to provide personalized or non‑personalized ads. Users can opt out of personalized ads from their device settings.</li>
                 <li>For iOS devices, the app may request permission to track activity across apps and websites to deliver relevant ads (App Tracking Transparency). Users may decline this request and continue to use the app normally.</li>
             </ul>
@@ -70,10 +70,9 @@
                     <h3>Children's Privacy</h3>
                         <p>Our app</p>
                         <ul>
-                            <li>Is safe for children</li>
-                            <li>Does not knowingly collect personal data from children under 13</li>
-                            <li>Is designed for religious and devotional purposes</li>
-                            <li>Recommends adult supervision for powerful and extremely energetic mantras</li>
+                            <li>Does not knowingly collect personal data from children under 13.</li>
+                            <li>Is designed for religious and devotional purposes.</li>
+                            <li>Recommends adult supervision for powerful and extremely energetic mantras.</li>
                         </ul>
                             <p>If you believe that a child has provided personal information without parental consent, please contact us and we will promptly delete the data.</p>
                 </li>
@@ -81,28 +80,28 @@
             <h3>Third‑Party Services Used</h3>
                 <p>The app uses trusted third‑party services which may collect information to function properly:</p>
                 <ul>
-                    <li>Firebase Authentication – stores email/phone for login</li>
-                    <li>Firebase Analytics – collects anonymous usage statistics</li>
-                    <li>Firebase Crashlytics – collects crash logs and performance data </li>
-                    <li>Cloud Firestore – stores user favorites, playlist activity, and metadata</li>
+                    <li>Firebase Authentication – stores email/phone for login.</li>
+                    <li>Firebase Analytics – collects anonymous usage statistics.</li>
+                    <li>Firebase Crashlytics – collects crash logs and performance data.</li>
+                    <li>Cloud Firestore – stores user favorites, playlist activity, and metadata.</li>
                 </ul>
             <p>Each service operates under its own privacy policies.</p>
         </li>
         <li>
             <h3>Data Storage & Security</h3>
             <ul>
-                <li>User data is securely stored using Secure infrastructure</li>
-                <li>We follow reasonable administrative and technical safeguards</li>
-                <li>No system is completely secure, but we actively work to protect your data</li>
+                <li>User data is securely stored using Secure infrastructure.</li>
+                <li>We follow reasonable administrative and technical safeguards.</li>
+                <li>No system is completely secure, but we actively work to protect your data.</li>
             </ul>
         </li>
         <li>
                 <h3>User Rights & Control</h3>
                 <p>You have the right to:</p>
                     <ul>
-                        <li>Access your personal information</li>
-                        <li>Request correction or deletion of your account</li>
-                        <li>Contact us with privacy‑related concerns</li>
+                        <li>Access your personal information.</li>
+                        <li>Request correction or deletion of your account.</li>
+                        <li>Contact us with privacy‑related concerns.</li>
                     </ul>
                 <p>Requests can be sent via email (see Contact section).</p>
         </li>
@@ -112,8 +111,8 @@
                 However, individual sentiments may vary.
                 If any content is found to be sensitive or objectionable:</p>
                 <ul>
-                    <li>Users may notify us via email</li>
-                    <li>We will review the concern sincerely and take corrective steps when appropriate</li>
+                    <li>Users may notify us via email.</li>
+                    <li>We will review the concern sincerely and take corrective steps when appropriate.</li>
                 </ul>
         </li>
         <li><h3>Changes to This Privacy Policy</h3>
@@ -125,23 +124,23 @@
             <p>Users may request deletion of their account and all associated data at any time by contacting us at <a href="mailto:prayerappcnc@gmail.com" target="_blank">prayerappcnc@gmail.com.</a></p>
             <p>When a deletion request is received, we will remove:</p>
             <ul>
-                <li>Account information</li>
-                <li>Favorites saved in Cloud Firestore</li>
-                <li>Any profile or preference data</li>
-                <li>Authentication records (Firebase Authentication)</li>
+                <li>Account information.</li>
+                <li>Favorites saved in Cloud Firestore.</li>
+                <li>Any profile or preference data.</li>
+                <li>Authentication records (Firebase Authentication).</li>
                 <li>Data deletion is completed within 7–14 business days. After deletion, the information cannot be recovered.</li>
                 <li>We retain user account information (email, favorites, preferences) only as long as the account remains active.</li>
             </ul>
             <p>We automatically delete:</p>
                 <ul>
-                    <li>Crash logs → retained for up to 90 days</li>
-                    <li>Analytics data → retained by Firebase for up to 14 months (anonymous)</li>
-                    <li>Interstitial ad identifiers → handled by AdMob per their own retention rules</li>
+                    <li>Crash logs: retained for up to 90 days.</li>
+                    <li>Analytics data: retained by Firebase for up to 14 months (anonymous).</li>
+                    <li>Interstitial ad identifiers: handled by AdMob per their own retention rules.</li>
                 </ul>
             <p>If a user deletes their account or requests deletion:</p>
                 <ul>
-                    <li>All personal information is permanently removed from Firebase Authentication and Firestore</li>
-                    <li>Remaining analytics data remains anonymous and cannot be linked back to the user</li>
+                    <li>All personal information is permanently removed from Firebase Authentication and Firestore.</li>
+                    <li>Remaining analytics data remains anonymous and cannot be linked back to the user.</li>
                 </ul>
             <p>We do not retain any deleted user data beyond what is required for legal and security purposes.</p>
         </li>
