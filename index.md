@@ -6,7 +6,11 @@
     <ol>
         <li><h3>About the Application</h3>
             <p>Mantra Dhyan Rhythms is an application meant to promote and educate its users on traditional Hindu remedies, spiritual mantras, and mythological devotional lessons and stories. This app is developed and managed by Check N Click Learning and Technologies Pvt. Ltd. All audio, text, and related content available in the app is original content created by our team and is not copied from any external sources.</p>
-            <p>The app is intended for educational, spiritual, devotional, and religious purposes and is designed to be safe for users of all age groups, including children.</p>
+            <ul>
+                <li>This app is designed for general audiences.</li>
+                <li>It is not specifically directed to children, and ads shown may not be suitable for young children.</li>
+                <li>Children should use the app under parental guidance.</li>
+            </ul>
         </li>
         <li><h3>Information We Collect</h3>
             <p>During account registration and usage, we may collect the following information:</p>
@@ -57,6 +61,8 @@
                 <li>Ads are filtered to remove irrelevant or inappropriate content</li>
                 <li>We aim to show family‑friendly advertisements</li>
                 <li>AdMob may collect device identifiers and anonymous data to serve ads</li>
+                <li>Google AdMob may collect the Advertising ID (AAID/IDFA) to provide personalized or non‑personalized ads. Users can opt out of personalized ads from their device settings.</li>
+                <li>For iOS devices, the app may request permission to track activity across apps and websites to deliver relevant ads (App Tracking Transparency). Users may decline this request and continue to use the app normally.</li>
             </ul>
         <p>⚠️ While we take steps to ensure ad relevance and safety, we are not responsible for ad content provided by third‑party networks. However, we welcome user feedback and will take prompt action if inappropriate ads are reported.</p>
         </li>
@@ -75,10 +81,10 @@
             <h3>Third‑Party Services Used</h3>
                 <p>The app uses trusted third‑party services which may collect information to function properly:</p>
                 <ul>
-                    <li>Firebase Authentication</li>
-                    <li>Firebase Analytics</li>
-                    <li>Firebase Crash Reporting</li>
-                    <li>Google AdMob</li>
+                    <li>Firebase Authentication – stores email/phone for login</li>
+                    <li>Firebase Analytics – collects anonymous usage statistics</li>
+                    <li>Firebase Crashlytics – collects crash logs and performance data </li>
+                    <li>Cloud Firestore – stores user favorites, playlist activity, and metadata</li>
                 </ul>
             <p>Each service operates under its own privacy policies.</p>
         </li>
@@ -113,6 +119,31 @@
         <li><h3>Changes to This Privacy Policy</h3>
             <p>We may update this Privacy Policy as features evolve.
             Any changes will be posted on this page with an updated “Last Updated” date.</p>
+        </li>
+        <li>
+            <h3>Account Deletion & Data Removal</h3>
+            <p>Users may request deletion of their account and all associated data at any time by contacting us at <a href="mailto:prayerappcnc@gmail.com" target="_blank">prayerappcnc@gmail.com.</a></p>
+            <p>When a deletion request is received, we will remove:</p>
+            <ul>
+                <li>Account information</li>
+                <li>Favorites saved in Cloud Firestore</li>
+                <li>Any profile or preference data</li>
+                <li>Authentication records (Firebase Authentication)</li>
+                <li>Data deletion is completed within 7–14 business days. After deletion, the information cannot be recovered.</li>
+                <li>We retain user account information (email, favorites, preferences) only as long as the account remains active.</li>
+            </ul>
+            <p>We automatically delete:</p>
+                <ul>
+                    <li>Crash logs → retained for up to 90 days</li>
+                    <li>Analytics data → retained by Firebase for up to 14 months (anonymous)</li>
+                    <li>Interstitial ad identifiers → handled by AdMob per their own retention rules</li>
+                </ul>
+            <p>If a user deletes their account or requests deletion:</p>
+                <ul>
+                    <li>All personal information is permanently removed from Firebase Authentication and Firestore</li>
+                    <li>Remaining analytics data remains anonymous and cannot be linked back to the user</li>
+                </ul>
+            <p>We do not retain any deleted user data beyond what is required for legal and security purposes.</p>
         </li>
         <li><h3>Contact Us</h3>
             <p>If you have questions, feedback, or concerns related to privacy, content, or app usage, please contact us at:
