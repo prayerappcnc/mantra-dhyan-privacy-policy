@@ -146,7 +146,7 @@
         </li>
         <li><h3>Contact Us</h3>
             <p>If you have questions, feedback, or concerns related to privacy, content, or app usage, please contact us at:
-            <a href="mailto:prayerappcnc@gmail.com" target="_blank">prayerappcnc@gmail.com</a>
+            <a href="mailto:connect@mantradhyanrhythms.com" target="_blank">connect@mantradhyanrhythms.com </a>
             </p>
         </li>
         </ol>
