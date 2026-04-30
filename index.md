@@ -121,7 +121,7 @@
         </li>
         <li>
             <h3>Account Deletion & Data Removal</h3>
-            <p>Users may request deletion of their account and all associated data at any time by contacting us at <a href="mailto:prayerappcnc@gmail.com" target="_blank">prayerappcnc@gmail.com.</a></p>
+            <p>Users may request deletion of their account and all associated data at any time by contacting us at <a href="mailto:connect@mantradhyanrhythms.com " target="_blank">connect@mantradhyanrhythms.com.</a></p>
             <p>When a deletion request is received, we will remove:</p>
             <ul>
                 <li>Account information.</li>
